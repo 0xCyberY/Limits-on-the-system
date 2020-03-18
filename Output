@@ -1,0 +1,6 @@
+System confirms to POSIX 199309
+Maximum path name length is: 4096
+Maximum number of child processes: 7823
+Maximum file name length is: 255
+Maximum number of files that can be opened simultaneously: 1024
+Number of clock ticks per second: 100
